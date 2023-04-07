@@ -1,3 +1,5 @@
+#include "hash_tables.h"
+
 /**
  * key_index - Returns the index at which a key should be stored in an array
  * @key: The key to be hashed
