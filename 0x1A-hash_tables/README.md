@@ -1,8 +1,8 @@
 ## 0x1A. C - Hash tables
 `C` `Algorithm` `Data structure`
 
-## `A prooject on  hash table`
-### `What is hash table is a data structure that allows for efficient retrival and storage of key-value pairs`
+## `A project on  hash table`
+### `What is hash table? It is a data structure that allows for efficient retrival and storage of key-value pairs`
 
 ### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
